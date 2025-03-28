@@ -1,3 +1,5 @@
+ 
+[English](README_EN.md) | 简体中文
 
 # Flow3 自动化工具使用教程
 
